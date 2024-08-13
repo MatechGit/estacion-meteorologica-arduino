@@ -2,8 +2,8 @@
 Este repositorio contiene el código y el esquema del circuito para una estación meteorológica construida con Arduino. El proyecto mide y muestra la temperatura y la humedad utilizando un sensor DHT11. Incluye el código fuente para el Arduino y una imagen del circuito para ayudar a montar el proyecto.
 
 Archivos incluidos:
-codigo_estacion_meteorologica.ino - Código de Arduino para la estación meteorológica.
-circuito.png - Imagen del esquema del circuito.
+- codigo_estacion_meteorologica.ino - Código de Arduino para la estación meteorológica
+- circuito.png - Imagen del esquema del circuito.
 
 Instrucciones:
 - Conecta el sensor DHT11 al Arduino siguiendo el esquema del circuito.
